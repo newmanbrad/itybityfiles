@@ -1,0 +1,15 @@
+<!-- Type can be set to combine or none - none will create minified version of css/js where the current file exists -->
+<!-- Please include full path in file node - No path for global css/js set yet -->
+<main type="combine" cssfilename="testCSS" jsfilename="jscombined" csspath="" jspath="">
+	<css>
+		<file>C:\codelibrary\ruby\testcss\imgbox.css</file>
+		<file>C:\codelibrary\ruby\testcss\listings.css</file>
+		<file>C:\codelibrary\ruby\testcss\social.css</file>
+	</css>	
+	<js>
+		<file>C:\codelibrary\ruby\testjs\backbone.paginator.js</file>
+		<file>C:\codelibrary\ruby\testjs\contactform.js</file>
+		<file>C:\codelibrary\ruby\testjs\dateValidate.js</file>
+		<file>C:\codelibrary\ruby\testjs\enewslettersignup.js</file>
+	</js>	
+</main>
